@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Mélodie KOUY
 ---
 
-# Mélodie KOUY
 Ingénieure créative  
 > A la recherche d'un stage d'**au moins 12 semaines** (3 mois) entre mai à août 2023 en tant que développeuse
 
