@@ -45,9 +45,38 @@ Ingénieure créative
 
 **Les missions**
 - Création de contenu et gestion des réseaux sociaux (site web, mails, Instagram, LinkedIn, YouTube)
-- Organisation et gestion des Journées Portes Ouvertes de la filière IMAC
+- Organisation et gestion des Journées Portes Ouvertes de la filière IMAC (décembre, février et mars)
 - Organisation et gestion de la captation de la remise de diplôme de la promotion ex-ESIPE 2023
-- 
+
+### Membre de 803Z
+- Association étudiante
+- Université Gustave Eiffel, Champs-sur-Marne
+- 2021 - 2024
+
+**Contribution**
+- Participante à l'événement 23HBD, édition 2022 et 2023
+- Participante à l'événement 25HBD, édition 2022
+- Participante à l'événement GameJam Advance, 2023
+- Organisation et gestion de l'atelier Trousse pour Un, janvier à mai 2024
+
+### Ambassadrice du Pass Culture
+- Ministère de la Culture
+- 2021 - 2022
+
+**Les missions**
+- Communication sur les réseaux sociaux
+- Participer à des évènements partenaires
+- Retours UX sur l'application mobile
+
+### Membre de La Mouette Bâillonnée
+- Club de journalisme
+- Lycée Marcelin Berthelot, Saint-Maur-des-Fossés
+- 2017 - 2019
+
+**Mission**
+- Illustration d'articles
+
+Prix du festival Expresso, 2019
 
 --- 
 
@@ -64,7 +93,7 @@ Image, Multimédia, Audiovisuel et Communication
 - 2019 - 2022
 
 ### Baccalauréat Scientifique
-- Spécialité Science de la vie et de la terres
+- Spécialité science de la vie et de la terres
 - Lycée Marcelin Berthelot, Saint-Maur-Des-Fossés
 - 2016 - 2019
 
@@ -95,27 +124,6 @@ Compilateur pour un sous-ensemble du langage C
 
 ---
 
-## Associations
-### Membre de l'association 803Z
-Association étudiante, Université Gustave Eiffel, 2021 - 2024
-- 23HBD édition 2022, 2023
-- 25HBD édition 2022
-- GameJam Advance 2023
-- Organisation et gestion de l'atelier Trousse pour Un
-    - Janvier à mai 2024
-
-### Ambassadrice du Pass Culture
-Ministère de la Culture, 2021 - 2022
-- Communication
-- Assister à des évènements
-- Retours UX sur l'application mobile
-
-### Membre de La Mouette Bâillonnée
-Club de journalisme, Lycée Marcelin Berthelot, 2017 - 2019
-- Illustration d'articles  
-Prix du festival Expresso, 2019
-
---- 
 
 ## Centres d'intérêt
 - Illustration
@@ -146,8 +154,9 @@ Prix du festival Expresso, 2019
 - Microsoft 365
 - Notion, Asana
 
-### Autres langages de programmation
-- OCaml, Java17
-- JavaScript, Angular, PHP
-- SQL, PL/pgSQL
-- Git
+### Notions de programmation
+- fonctionnelle (via OCaml avec Samuele Giraudo)
+- objet (via Java17 avec Rémi Forax)
+- web (JavaScript, Angular, Node.js)
+- base de données (SQL, PL/pgSQL, PHP)
+- Git (GitHub, GitLab, Redmine)
