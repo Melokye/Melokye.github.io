@@ -1,15 +1,19 @@
 ---
 layout: default
 ---
-<!-- <h1>{{ page.name }}</h1> -->
 
 {{ content }}
 
-<!-- TODO à regler -->
-<p>Utilisée dans les projets suivants : </p>
+<h3>Utilisée dans les projets suivants : </h3>
 <ul>
-    {% assign filtered_posts = site.posts | where: 'skill', page.name %}
-    {% for post in filtered_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+
+  {% for project in site.projects %}
+    {% if project.skills contains {{page.name}} %}
+      <li>
+        <a href="{{ project.url }}">{{ project.title }}</a>
+        <p>{{ project.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+
 </ul>

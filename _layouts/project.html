@@ -6,10 +6,18 @@ layout: default
 
 <!-- TODO à réctifier, selection incorrecte -->
 <ul>
-    {% assign skill = site.skills | where: 'name', page.skill | first %} 
+    <!-- {% assign skill = site.skills | where: 'name', page.skill | first %} 
     <li>
         {% if skill %}
         <a href="{{ skill.url }}">{{ skill.name }}</a>
     </li>
-    {% endif %}
+    {% endif %} -->
+
+    {% for skill in site.skills %}
+        <!-- {% if skill.name contains {{page.skills}} %} -->
+            <li>
+                <a href="{{ skill.url }}">{{ skill.title }}</a>
+            </li>
+        <!-- {% endif %} -->
+    {% endfor %}
 </ul>
