@@ -1,0 +1,14 @@
+---
+layout: default
+title: Mes projets
+---
+<h2>Les projets les plus récents</h2>
+
+<ul>
+  {% for project in site.posts %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      {{ project.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
