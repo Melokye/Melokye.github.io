@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: experience
 title:  "Welcome to Jekyll!"
 date:   2024-02-01 14:57:31 +0100
 categories: jekyll update
