@@ -1,5 +1,6 @@
 ---
-name: Illustration
+layout : skill
+name: illustration
 ---
 
 Un passe-temps pratiqué depuis 2011, peu de temps après la découverte des mangas.
