@@ -2,12 +2,11 @@
 layout: default
 title: Mes compétences
 ---
-<!-- TODO à régler ? -->
-<!-- <ul> -->
+<ul>
     {% for skill in site.skills %}
-        <!-- <li> -->
+        <li>
             <h2><a href="{{ skill.url }}">{{ skill.name }}</a></h2>
             <p>{{ skill.content | markdownify }}</p>
-        <!-- </li> -->
+        </li>
     {% endfor %}
-<!-- </ul> -->
+</ul>
