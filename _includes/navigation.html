@@ -1,4 +1,8 @@
+<!-- TODO surligner quand selectionné -->
 <nav>
-    <a href="/">Accueil</a>
-    <a href="/portfolio/">Portfolio</a>
+    {% for page in site.data.navigation %}
+    <a href="{{ page.link }}" {% if page.url == "{{ page.link }}" %}class="current"{% endif %}>
+      {{page.name}}
+    </a>
+    {% endfor %}
 </nav>
