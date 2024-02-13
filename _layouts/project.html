@@ -1,5 +1,15 @@
 ---
 layout: default
 ---
-<p>Compétences : {{page.skills}}</p>
+
 {{ content }}
+
+<!-- TODO à réctifier, selection incorrecte -->
+<ul>
+    {% assign skill = site.skills | where: 'name', page.skill | first %} 
+    <li>
+        {% if skill %}
+        <a href="{{ skill.url }}">{{ skill.name }}</a>
+    </li>
+    {% endif %}
+</ul>
