@@ -5,6 +5,7 @@
 layout: default
 # home
 title: Mélodie KOUY
+# TODO insert favicon
 ---
 
 Ingénieure créative  
