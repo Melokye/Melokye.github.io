@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+# home
 title: Mélodie KOUY
 ---
 
@@ -11,7 +12,7 @@ Ingénieure créative
 
 - Région parisienne
 - Mobilité : Europe
-- melodiekouy[at]gmail.com
+- melodiekouy@gmail.com
 
 ---
 
