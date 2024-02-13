@@ -1,3 +1,25 @@
 .current {
-    color: green;
+    color: black;
+    text-decoration-line: underline;
+}
+
+nav {
+    margin: 0;
+    // padding: 0;
+    
+    background-color: #dddddd;
+    padding: 1em;
+    // display: inline;
+    // float: left;
+    a{
+        color: gray;
+        text-decoration-line: none;
+        // display: block;
+        padding: 8px;
+
+        &:hover{
+            color: white;
+            background-color: black;
+        }
+    }    
 }
