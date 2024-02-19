@@ -5,8 +5,8 @@ title: Mes compétences
 <ul>
     {% for skill in site.skills %}
         <li>
-            <h2><a href="{{ skill.url }}">{{ skill.name }}</a></h2>
-            <p>{{ skill.content | markdownify }}</p>
+            <a href="{{ skill.url }}">{{ skill.name }}</a>
+            <p>{{ skill.excerpt }}</p>
         </li>
     {% endfor %}
 </ul>
