@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Site web personnel"
-skills: web
+skills:
+    - web
 ---
 
 Début : février 2024  

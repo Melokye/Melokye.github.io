@@ -1,7 +1,10 @@
 ---
 layout  :   project
 title   :   "Rubik4D"
-skills  :   illustration
+skills  :
+    - illustration
+    - web
+# TODO pour des tests, à rectifier
 ---
 **Période** : de novembre 2023 à mai 2024  
 Projet tutoré sous la direction de Vincent NOZICK  
