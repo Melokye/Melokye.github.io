@@ -1,25 +1,27 @@
 .current {
-    color: black;
+    color: #3DF1CD;
     text-decoration-line: underline;
 }
 
+body{
+    background-color: white ;
+    color: #003E73;
+}
+
 nav {
-    margin: 0;
-    // padding: 0;
-    
-    background-color: #dddddd;
+    margin: 0em;    
+    background-color: #003E73;
     padding: 1em;
-    // display: inline;
-    // float: left;
+
     a{
-        color: gray;
+        color: white;
         text-decoration-line: none;
         // display: block;
         padding: 8px;
 
         &:hover{
-            color: white;
-            background-color: black;
+            color: #3DF1CD;
+            background-color: #003E73;
         }
     }    
 }
