@@ -33,6 +33,7 @@ github_username:  Melokye
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
 
 collections_dir: collections
 collections:

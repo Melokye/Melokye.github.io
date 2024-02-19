@@ -9,5 +9,6 @@
     {% include navigation.html %}
     <h1>{{page.title}}</h1>
     {{ content }}
+    Dernière modification : {{ page.last_modified_at | date: '%A %d %b %Y '}}
   </body>
 </html>
