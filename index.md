@@ -15,6 +15,8 @@ Ingénieure créative
 - Mobilité : Europe
 - melodiekouy@gmail.com
 
+<!-- TODO ajouter les réseaux sociaux -->
+
 ---
 
 ## 💼 Expériences
@@ -95,7 +97,7 @@ Image, Multimédia, Audiovisuel et Communication
 - 2019 - 2022
 
 ### Baccalauréat Scientifique
-- Spécialité science de la vie et de la terres
+- Spécialité science de la vie et de la terre
 - Lycée Marcelin Berthelot, Saint-Maur-Des-Fossés
 - 2016 - 2019
 
@@ -126,17 +128,13 @@ Compilateur pour un sous-ensemble du langage C
 
 ---
 
-
 ## Centres d'intérêt
 - Illustration
 - Webtoon, manga
-- Podcast
-    - Développement personnel
-    - Entreprenariat
-- Ateliers créatif
-    - crochet, sculpture, scrapbooking, ...
+- Podcast : développement personnel, entreprenariat
 - Bullet journal
 - Instagram
+- Ateliers créatif : crochet, sculpture, scrapbooking, ...
 
 --- 
 
@@ -145,12 +143,13 @@ Compilateur pour un sous-ensemble du langage C
 - Anglais : B2 (TOEIC en cours)
 - Chinois : B1
 - Projet voltaire
-- Langue des Signes Française, Coréen
+- Langue des Signes Française, Coréen : notions
 
 ### Créations
 - Blender
 - Figma, Canva
 - Procreate, Medibang, IbisPaint X
+<!-- TODO : suite adobe ? -->
 
 ### Bureautique
 - Microsoft 365
@@ -161,4 +160,4 @@ Compilateur pour un sous-ensemble du langage C
 - objet (via Java17 avec Rémi Forax)
 - web (JavaScript, Angular, Node.js)
 - base de données (SQL, PL/pgSQL, PHP)
-- Git (GitHub, GitLab, Redmine)
+- gestion de versions (Git : GitHub, GitLab, Redmine)
