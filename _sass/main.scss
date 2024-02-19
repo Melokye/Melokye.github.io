@@ -8,6 +8,16 @@ body{
     color: #003E73;
 }
 
+a{
+    color: #003E73;
+    padding: 8px;
+
+    &:hover{
+        color: #3DF1CD;
+        background-color: #003E73;
+    }
+} 
+
 nav {
     margin: 0em;    
     background-color: #003E73;
@@ -16,7 +26,6 @@ nav {
     a{
         color: white;
         text-decoration-line: none;
-        // display: block;
         padding: 8px;
 
         &:hover{
