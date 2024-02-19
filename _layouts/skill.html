@@ -8,7 +8,7 @@ layout: default
 <ul>
 
   {% for project in site.projects %}
-    {% if project.skills contains {{page.name}} %}
+    {% if project.skills contains page.name %}
       <li>
         <a href="{{ project.url }}">{{ project.title }}</a>
         <p>{{ project.excerpt }}</p>
