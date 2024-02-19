@@ -19,18 +19,15 @@ a{
 } 
 
 nav {
-    margin: 0em;    
     background-color: #003E73;
     padding: 1em;
 
     a{
         color: white;
         text-decoration-line: none;
-        padding: 8px;
 
         &:hover{
             color: #3DF1CD;
-            background-color: #003E73;
         }
     }    
 }
