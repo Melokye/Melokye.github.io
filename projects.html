@@ -7,8 +7,11 @@ title: Mes projets
 <ul>
   {% for project in site.projects %}
     <li>
-      <a href="{{ project.url }}">{{ project.title }}</a>
-      {{ project.excerpt }}
+      <a href="{{ project.url }}">
+        {{ project.title }}
+        <!-- TODO : idéalement, faire en sorte que le résumé soit inclus dans le lien également -->
+      </a>
+        {{ project.excerpt }}
     </li>
   {% endfor %}
 </ul>
