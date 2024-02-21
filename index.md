@@ -8,100 +8,129 @@ title: Mélodie KOUY
 # TODO insert favicon
 ---
 
-Ingénieure créative  
-> A la recherche d'un stage d'**au moins 12 semaines** (3 mois) entre mai à août 2023 en tant que développeuse
+## Ingénieure créative  
+
+> A la recherche d'un stage
+> d'**au moins 12 semaines**
+> du 4 mai au 25 août 2024
+> en tant que développeuse
 
 - Région parisienne
 - Mobilité : Europe
 - melodiekouy@gmail.com
 
-<!-- TODO ajouter les réseaux sociaux -->
+<!-- TODO insérer liens des réseaux sociaux -->
+
+### Réseaux sociaux
+
+- LinkedIn : Mélodie KOUY
+- GitHub : melokye
+<!-- Site : melokye.github.io -->
+- Instagram : melokye.crea
+
+---
+
+## 🎓 Formations
+
+<!-- TODO créer une collection formation + voir sur LinkedIn pour + d'infos -->
+
+### Statut National d'Etudiant Entrepreneur (SNEE)
+
+. PEPITE 3EF  
+. Université Gustave Eiffel, Champs-sur-Marne  
+. 2021 -  
+**Projet** : Sensibiliser le grand public aux enjeux climatiques à travers des loisirs
+
+### Ingénieure IMAC
+
+Image, Multimédia, Audiovisuel et Communication  
+. ESIEE Paris (ex-ESIPE)  
+. Université Gustave Eiffel, Champs-sur-Marne  
+. 2022 - 2025  
+
+### Licence Informatique
+
+. Institut Gaspard Monge  
+. Université Gustave Eiffel, Champs-sur-Marne  
+. 2019 - 2022  
+
+### Baccalauréat Scientifique
+
+. Spécialité science de la vie et de la terre  
+. Lycée Marcelin Berthelot, Saint-Maur-Des-Fossés  
+. 2016 - 2019  
+Option : Histoire des arts
 
 ---
 
 ## 💼 Expériences
-### Statut National d'Etudiant Entrepreneur (SNEE)
-- PEPITE 3EF
-- Université Gustave Eiffel, Champs-sur-Marne
-- 2021 - 2024
 
-**Projet** : Sensibiliser aux enjeux climatiques à travers des loisirs
+### Tutrice des L1 Maths-Info
 
-### Tutorat pour L1 Informatique
-- Université Gustave Eiffel, Champs-sur-Marne
-- Sous la direction d'Olivier CHAMPALLE
+. Université Gustave Eiffel, Champs-sur-Marne  
+. Sous la direction d'Olivier CHAMPALLE
 
-**Les missions**
 - Création des supports de cours  
-    - Juillet à Septembre 2023  
+  - Juillet à Septembre 2023  
     **But** : Initiation au Python, à l'algorithmie et aux outils pédagogiques de la formation  
     Utilisation de **LaTex, Markdown, Python**
-- Application des supports
-    - Septembre 2023  
+- Présentation des supports
+  - Septembre 2023  
         3 séances de 2h auprès d'une vingtaine de personnes
-    - Septembre 2022  
+  - Septembre 2022  
         4 séances de 4h auprès d'une vingtaine de personnes
 
 ### Responsable de la comm'imac
-- Université Gustave Eiffel, Champs-sur-Marne
-- Sous la direction de Vincent NOZICK
-- Août 2023 - Mai 2024
 
-**Les missions**
-- Création de contenu et gestion des réseaux sociaux (site web, mails, Instagram, LinkedIn, YouTube)
-- Organisation et gestion des Journées Portes Ouvertes de la filière IMAC (décembre, février et mars)
-- Organisation et gestion de la captation de la remise de diplôme de la promotion ex-ESIPE 2023
+. Université Gustave Eiffel, Champs-sur-Marne  
+. Sous la direction de Vincent NOZICK  
+. Août 2023 - Mai 2024
 
-### Membre de 803Z
-- Association étudiante
-- Université Gustave Eiffel, Champs-sur-Marne
-- 2021 - 2024
+- Gestion des comptes Instagram, LinkedIn, YouTube, Gmail et du serveur public Discord de l'IMAC
+- Organisation des Journées Portes Ouvertes de la filière IMAC (décembre, février et mars)
+- Organisation de la captation pour la remise de diplôme des filières ex-ESIPE 2023
+- Captation d'événements
+- Maintenance site web
+- Collecte des projets étudiants IMAC
 
-**Contribution**
-- Participante à l'événement 23HBD, édition 2022 et 2023
-- Participante à l'événement 25HBD, édition 2022
-- Participante à l'événement GameJam Advance, 2023
-- Organisation et gestion de l'atelier Trousse pour Un, janvier à mai 2024
+### Membre polyvalente de 803Z
+
+. Association étudiante
+<!-- 
+gérée par 
+Alaric (2021-2022) 
+Wendy GERVAIS (2022-2023) 
+Guilhem DUVAL (2023-2024) 
+-->
+. Université Gustave Eiffel, Champs-sur-Marne  
+. 2021 - 2024  
+
+- Participante au 23HBD, édition 2022 et 2023
+- Participante au 25HBD, édition 2022
+- Participante à la GameJam Advance, 2023
+- Organisation, promotion et gestion de l'atelier Trousse pour Un, janvier à mai 2024
 
 ### Ambassadrice du Pass Culture
-- Ministère de la Culture
-- 2021 - 2022
 
-**Les missions**
+. Ministère de la Culture  
+. 2021 - 2022
+
 - Communication sur les réseaux sociaux
-- Participer à des évènements partenaires
+- Participante à des évènements partenaires
 - Retours UX sur l'application mobile
 
-### Membre de La Mouette Bâillonnée
-- Club de journalisme
-- Lycée Marcelin Berthelot, Saint-Maur-des-Fossés
-- 2017 - 2019
+### Membre polyvalente de La Mouette Bâillonnée
 
-**Mission**
+. Club de journalisme  
+. Lycée Marcelin Berthelot, Saint-Maur-des-Fossés  
+. 2017 - 2019
+
 - Illustration d'articles
-
+- Logistique et distribution des journaux
 Prix du festival Expresso, 2019
 
 --- 
 
-## 🎓 Formations
-### Formation ingénieure IMAC
-Image, Multimédia, Audiovisuel et Communication
-- ESIEE Paris (ex-ESIPE)
-- Université Gustave Eiffel, Champs-sur-Marne
-- 2019 - 2025
-
-### Licence Informatique
-- Institut Gaspard Monge
-- Université Gustave Eiffel, Champs-sur-Marne
-- 2019 - 2022
-
-### Baccalauréat Scientifique
-- Spécialité science de la vie et de la terre
-- Lycée Marcelin Berthelot, Saint-Maur-Des-Fossés
-- 2016 - 2019
-
----
 
 ## Projets universitaires
 
