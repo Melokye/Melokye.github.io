@@ -6,7 +6,7 @@ skills  :
     - web
 # TODO pour des tests, à rectifier
 ---
-**Période** : de novembre 2023 à mai 2024  
+**Période** : novembre 2023 à mai 2024  
 Projet tutoré sous la direction de Vincent NOZICK  
 **Objectif** : coder une représentation d'un rubik's cube 2x2x2x2 de façon esthétiquement plaisant et accessible pour le grand public
 

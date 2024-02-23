@@ -4,14 +4,14 @@ title: Mes projets
 ---
 <!-- <h2>Les projets les plus récents</h2> TODO -->
 
-<ul>
+  <div style="display: flex;">
   {% for project in site.projects %}
-    <li>
+    <div class="box">
       <a href="{{ project.url }}">
         {{ project.title }}
         <!-- TODO : idéalement, faire en sorte que le résumé soit inclus dans le lien également -->
       </a>
         {{ project.excerpt }}
-    </li>
+    </div>
   {% endfor %}
-</ul>
+  </div>
