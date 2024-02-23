@@ -19,14 +19,13 @@ title: Mélodie KOUY
 - Mobilité : Europe
 - melodiekouy@gmail.com
 
-<!-- TODO insérer liens des réseaux sociaux -->
+<!-- TODO insérer icones des réseaux sociaux -->
 
 ### Réseaux sociaux
-
-- LinkedIn : Mélodie KOUY
-- GitHub : melokye
 <!-- Site : melokye.github.io -->
-- Instagram : melokye.crea
+- LinkedIn : [Mélodie KOUY](https://www.linkedin.com/in/m%C3%A9lodie-kouy-7902a4207/)
+- GitHub : [Melokye](https://github.com/Melokye)
+- Instagram : [melokye.crea](https://www.instagram.com/melokye.crea/)
 
 ---
 
