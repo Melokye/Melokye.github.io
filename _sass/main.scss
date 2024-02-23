@@ -10,6 +10,11 @@
     margin: 1rem;
     max-width: 15rem;
     text-align: center;
+
+    &:hover{
+        background-color: #003E73;
+        border-radius: 2rem;
+    }
 }
 
 body{
@@ -19,24 +24,17 @@ body{
 
 a{
     color: #003E73;
-    padding: 8px;
-
+    text-decoration-line: none;
     &:hover{
         color: #3DF1CD;
-        background-color: #003E73;
     }
-} 
+}
 
 nav {
     background-color: #003E73;
-    padding: 1em;
+    padding: 1rem;
 
     a{
         color: white;
-        text-decoration-line: none;
-
-        &:hover{
-            color: #3DF1CD;
-        }
     }    
 }
