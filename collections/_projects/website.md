@@ -3,11 +3,10 @@ layout: project
 title:  "Site web personnel"
 skills:
     - web
+debut : "février 2024"
 ---
+Création d'un site vitrine pour les projets que j'ai réalisé
 
-Début : février 2024  
-Création d'un site vitrine pour montrer les projets que j'ai réalisé
+Le site a été codé en [`Jekyll`](https://jekyllrb.com/docs/)  
 
-Compétences aquises :
-
-- front-end via `Jekyll`
+[Accès au code source](https://github.com/Melokye/Melokye.github.io)
