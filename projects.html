@@ -9,7 +9,14 @@ title: Mes projets
     <a href="{{ project.url }}">
       <div class="box">
         <h3>{{ project.title }}</h3>
-        {{ project.excerpt }}
+        <p>
+          Période : {{project.debut}} 
+          {% if project.fin %}
+          à {{project.fin}}
+          {% endif %}
+        </p>
+        
+        {{ project.excerpt | markdownify | strip_html }}
       </div>
     </a>
   {% endfor %}
