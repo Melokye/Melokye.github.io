@@ -12,11 +12,16 @@ Période :
 {{ content }}
 
 <!-- TODO visuel tag -->
+Tags : 
 <ul>
     {% for skill in page.skills %}
         <li>
+
             {{skill}}
-            <a href="{{ skill.url }}">{{ skill.title }}</a>
+            <!-- TODO lien avec la collection skill -->
+            <!-- <a href="{{ tag.url }}">{{ tag.title }}</a> -->
         </li>
     {% endfor %}
 </ul>
+
+<!-- TODO projet suivant / précédent -->
