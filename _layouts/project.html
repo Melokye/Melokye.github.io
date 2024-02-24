@@ -1,12 +1,21 @@
 ---
 layout: default
 ---
+Période : 
+{{page.debut}} 
+{% if page.fin %}
+à {{page.fin}}
+{% endif %}
+
+<!-- TODO inserer une séparation ? -->
 
 {{ content }}
 
+<!-- TODO visuel tag -->
 <ul>
-    {% for skill in site.skills %}
+    {% for skill in page.skills %}
         <li>
+            {{skill}}
             <a href="{{ skill.url }}">{{ skill.title }}</a>
         </li>
     {% endfor %}
