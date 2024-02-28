@@ -39,7 +39,7 @@ title: Mélodie KOUY
 . PEPITE 3EF  
 . Université Gustave Eiffel, Champs-sur-Marne  
 . 2021 -  
-**Projet** : Sensibiliser le grand public aux enjeux climatiques à travers des loisirs
+**Projet** : Sensibiliser le grand public aux enjeux climatiques à travers des loisirs  
 [En savoir plus sur le statut](https://www.pepite-france.fr/)
 
 ### Ingénieure IMAC
