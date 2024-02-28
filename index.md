@@ -12,7 +12,7 @@ title: Mélodie KOUY
 
 > A la recherche d'un stage
 > d'**au moins 12 semaines**
-> du 4 mai au 25 août 2024
+> du 4 mai au 20 août 2024
 > en tant que développeuse
 
 - Région parisienne
@@ -25,6 +25,7 @@ title: Mélodie KOUY
 <!-- Site : melokye.github.io -->
 - LinkedIn : [Mélodie KOUY](https://www.linkedin.com/in/m%C3%A9lodie-kouy-7902a4207/)
 - GitHub : [Melokye](https://github.com/Melokye)
+<!-- - GitLab : [Melokye](https://gitlab.com/Melokye) -->
 - Instagram : [melokye.crea](https://www.instagram.com/melokye.crea/)
 
 ---
@@ -39,6 +40,7 @@ title: Mélodie KOUY
 . Université Gustave Eiffel, Champs-sur-Marne  
 . 2021 -  
 **Projet** : Sensibiliser le grand public aux enjeux climatiques à travers des loisirs
+[En savoir plus sur le statut](https://www.pepite-france.fr/)
 
 ### Ingénieure IMAC
 
@@ -46,6 +48,7 @@ Image, Multimédia, Audiovisuel et Communication
 . ESIEE Paris (ex-ESIPE)  
 . Université Gustave Eiffel, Champs-sur-Marne  
 . 2022 - 2025  
+[En savoir plus sur la formation](https://www.ingenieur-imac.fr/)
 
 ### Licence Informatique
 
