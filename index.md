@@ -171,10 +171,13 @@ Compilateur pour un sous-ensemble du langage C
 
 ## Compétences
 ### Langues
-- Anglais : B2 (TOEIC en cours)
-- Chinois : B1
-- Projet voltaire
-- Langue des Signes Française, Coréen : notions
+- Teochew : langue maternelle
+- Français : Certification du Projet voltaire
+- Anglais : B2, TOEIC
+- Mandarin : B1
+<!-- - Langue des Signes Française : notions -->
+- Coréen : notions
+<!-- - Khmer : notions -->
 
 ### Créations
 - Blender
@@ -183,7 +186,7 @@ Compilateur pour un sous-ensemble du langage C
 <!-- TODO : suite adobe ? -->
 
 ### Bureautique
-- Microsoft 365
+- Microsoft 365, Google workspace
 - Notion, Asana
 
 ### Notions de programmation
