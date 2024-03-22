@@ -4,7 +4,8 @@ title: Mes projets
 ---
 <!-- TODO <h2>Les projets les plus récents</h2>  -->
 <!-- TODO responsive -->
-  <div style="display: flex;">
+<div style="display: flex; justify-content: center;">
+  <!-- TODO mettre le style dans le sass -->
   {% for project in site.projects %}
     <a href="{{ project.url }}">
       <div class="box">
@@ -20,4 +21,4 @@ title: Mes projets
       </div>
     </a>
   {% endfor %}
-  </div>
+</div>
