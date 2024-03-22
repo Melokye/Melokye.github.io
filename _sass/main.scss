@@ -4,10 +4,6 @@
 }
 
 .box {
-    // TODO : fusionner avec a ?
-    border: 2px solid #003E73;
-    border-radius: 2rem;
-    padding: 2rem;
     margin: 1rem;
     max-width: 15rem;
     text-align: center;
@@ -22,15 +18,15 @@ body{
 }
 
 a{
+    border: 2px solid #003E73;
+    border-radius: 2rem;
+
     color: #003E73;
     text-decoration-line: none;
 
     padding-right: 1rem;
     padding-left: 1rem;
-
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-
+    margin: 1rem;
     &:hover{
         color: #3DF1CD;
         background-color: #003E73;
@@ -39,8 +35,11 @@ a{
 }
 
 nav {
+    border-radius: 2rem;
     background-color: #003E73;
-    padding: 1rem;
+
+    display: flex;
+    justify-content: end;
 
     a{
         color: white;
