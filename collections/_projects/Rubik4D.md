@@ -15,5 +15,10 @@ Elaborer une nouvelle représentation d'un rubik's cube 2x2x2x2 de façon esthé
 
 Un projet tutoré par Vincent NOZICK  
 
+---
 <!-- TODO à mettre à jour ? - [Présentation](https://docs.google.com/presentation/d/1nP3Qweg6X0pvGYHloJAECo8k-rPb099s8XzZt5BnPjA/edit?usp=sharing) -->
 - [Code source du projet](https://github.com/Melokye/IMAC2_Rubik4D)
+
+- Chef de projet
+- Programmation en C#
+- Charte graphique
