@@ -10,14 +10,17 @@ skills  :
 - Lieu : Université Gustave Eiffel, Champs-sur-Marne,
 - Sous la direction de Vincent NOZICK  
 
-La comm'IMAC est un groupe d'IMAC bénévoles qui a pour but de promouvoir la formation.
+La comm'IMAC est un groupe d'IMAC bénévoles qui a pour but de promouvoir la formation et relayer les informations en interne
 
-Mes missions :
+---
 
-- Gestion de l'équipe
+### Mes missions :
+
+- Coordination de l'équipe
 - Gestion des comptes Instagram, Facebook, LinkedIn, YouTube, Gmail et du serveur public Discord de l'IMAC
 - Organisation des Journées Portes Ouvertes de la filière IMAC (décembre, février et mars)
 - Organisation de la captation pour la remise de diplôme des filières ex-ESIPE 2023
 - Captation d'événements
 - Maintenance site web
 - Collecte des projets étudiants IMAC
+- Intermédiaire avec la com'ESIEE
