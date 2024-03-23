@@ -1,6 +1,4 @@
 ---
-layout  :   project
-# TODO automatiser layout
 title : "Responsable de la comm'imac"
 debut : "Août 2023"
 fin : "Mai 2024"

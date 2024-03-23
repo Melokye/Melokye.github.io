@@ -1,6 +1,4 @@
 ---
-layout  :   project
-# TODO automatiser layout
 title   :   "Tutrice pour des L1 Maths-Info"
 skills  :
     - programmation

@@ -1,6 +1,4 @@
 ---
-layout  :   project
-# TODO automatiser layout
 title   :   "Melotober"
 skills  :
     - illustration
