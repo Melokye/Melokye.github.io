@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Mes projets
+title: Mes autres projets
 ---
 <!-- TODO <h2>Les projets les plus récents</h2>  -->
-<!-- TODO responsive -->
-<div style="display: flex; justify-content: center;">
-  <!-- TODO mettre le style dans le sass -->
+<div class="gallery">
   {% for project in site.projects %}
     <a href="{{ project.url }}">
       <div class="box">
