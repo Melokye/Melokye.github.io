@@ -15,11 +15,12 @@ debut: "Septembre 2022, Juillet à Septembre 2023"
 ## Mes missions :
 ### Création des supports de cours
 - Juillet à Septembre 2023  
+- Avec Lysandre MACKE et Antonin JEAN
 - But : 
-    - Initiation au Python et à l'algorithmie via une approche par problème
+    - Initiation à Python et à l'algorithmie via une approche par problème
     - Initiation et installation des outils pédagogiques de la formation (Moodle, Jupyter, Thonny)  
 - Outils utilisés :
-    - LaTex, Markdown, 
+    - LaTex, Markdown 
     - Python
     - Discord, Moodle  
 
