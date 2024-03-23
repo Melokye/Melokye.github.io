@@ -6,5 +6,6 @@ equipe  :
 ---
 Jeu d'arcade réalisé en binôme avec Sara LAFLEUR
 
-- C++ 
+- C++
 - OpenGL
+  

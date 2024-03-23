@@ -9,7 +9,7 @@ equipe  :
 
 Création d'un site web proposant des recommandations de films, de musiques et de lectures
 
-- HTML, 
-- CSS, 
-- SQL, 
+- HTML
+- CSS
+- SQL
 - Python

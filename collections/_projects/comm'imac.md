@@ -15,6 +15,7 @@ skills  :
 La comm'IMAC est un groupe d'IMAC bénévoles qui a pour but de promouvoir la formation.
 
 Mes missions :
+
 - Gestion de l'équipe
 - Gestion des comptes Instagram, Facebook, LinkedIn, YouTube, Gmail et du serveur public Discord de l'IMAC
 - Organisation des Journées Portes Ouvertes de la filière IMAC (décembre, février et mars)
