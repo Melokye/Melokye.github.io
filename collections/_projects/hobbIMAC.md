@@ -12,4 +12,5 @@ Création d'un site web proposant des recommandations de films, de musiques et d
 - HTML
 - CSS
 - SQL
-- Python
+- Python, avec utilisation du framework [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+
