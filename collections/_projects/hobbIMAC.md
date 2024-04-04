@@ -15,7 +15,7 @@ Création d'un site web proposant des recommandations de films, de musiques et d
 
 - HTML
 - CSS
-- SQL (MySQL)
+- SQL (MySQL), création d'une API REST
 - Python, avec utilisation du framework [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
 [Code source](https://gitlab.com/SaraLafleur4/hobbimac)
