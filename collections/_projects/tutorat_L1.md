@@ -7,7 +7,6 @@ debut: "Septembre 2022, Juillet à Septembre 2023"
 ---
 - Lieu : Université Gustave Eiffel, Champs-sur-Marne,  
 - Sous la direction d'Olivier CHAMPALLE
-
 ---
 
 ## Mes missions
@@ -25,10 +24,10 @@ debut: "Septembre 2022, Juillet à Septembre 2023"
     - Discord, Moodle  
 
 ### Présentation des supports
-
+Pour initier les étudiants en 1re année de licence sur les outils pédagogiques de l'établissement et au système d'exploitation Linux
 - Septembre 2023  
     3 séances de 2h auprès d'une vingtaine de personnes
 - Septembre 2022  
     4 séances de 4h auprès d'une vingtaine de personnes
 
-[Code source](https://github.com/UGE-IGM/preRentree_L1_Support)
+<!-- [Code source](https://github.com/UGE-IGM/preRentree_L1_Support) -->
