@@ -1,6 +1,7 @@
 
 <div class="gallery">
-    {% for formation in site.formations %}
+    {% assign collections = site.formations | sort: 'debut' %}
+    {% for formation in collections reversed %}
       <a href="{{ formation.url }}">
         <div class="box">
           <h3>{{ formation.title }}</h3>
