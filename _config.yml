@@ -41,6 +41,7 @@ collections:
     output: true
   projects:
     output: true
+  formations:
 
 defaults:
   -

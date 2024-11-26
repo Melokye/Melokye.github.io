@@ -1,0 +1,23 @@
+
+<div class="gallery">
+    {% for formation in site.formations %}
+      <a href="{{ formation.url }}">
+        <div class="box">
+          <h3>{{ formation.title }}</h3>
+          <p> {{ formation.detail }}</p>
+
+          <ul>
+            <li>{{formation.more}}</li>
+            <li>{{formation.lieu}}</li>
+            <li>{{formation.debut}} - 
+                {% if project.fin %}
+                {{formation.fin}}
+                {% endif %}
+            </li>
+          </ul>
+
+          {{ formation.excerpt | markdownify | strip_html }}
+        </div>
+      </a>
+    {% endfor %}
+</div>
