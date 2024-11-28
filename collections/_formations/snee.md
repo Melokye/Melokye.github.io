@@ -1,7 +1,7 @@
 ---
 title   : "SNEE"
 detail  : "Statut National d'Etudiant Entrepreneur"
-url    : "https://www.pepite-france.fr/"
+lien    : "https://www.pepite-france.fr/"
 more    : "PEPITE 3EF"
 lieu    : "Université Gustave Eiffel, Champs-sur-Marne"
 debut   : "2021"
