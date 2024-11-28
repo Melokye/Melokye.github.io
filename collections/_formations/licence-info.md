@@ -1,7 +1,7 @@
 ---
 title   : "Licence Informatique"
 detail  : ""
-url    : "https://formations.univ-gustave-eiffel.fr/licence/detail/informatique-283"
+lien    : "https://formations.univ-gustave-eiffel.fr/licence/detail/informatique-283"
 more    : "Institut Gaspard Monge"
 lieu    : "Université Gustave Eiffel, Champs-sur-Marne"
 debut   : "2019"

@@ -2,7 +2,7 @@
 <div class="gallery">
     {% assign collections = site.formations | sort: 'debut' %}
     {% for formation in collections reversed %}
-      <a href="{{ formation.url }}">
+      <a href="{{ formation.lien }}">
         <div class="box">
           <h3>{{ formation.title }}</h3>
           <p> {{ formation.detail }}</p>
