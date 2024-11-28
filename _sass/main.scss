@@ -1,5 +1,10 @@
+// Charte graphique
+$hover-background-color: #3D405B;
+$hover-text-color: #8ACB88;
+$background-color: #AEC5EB;
+
 .current {
-    color: #3DF1CD;
+    color: $hover-text-color;
     text-decoration-line: underline;
 }
 
@@ -12,12 +17,11 @@
 .box {
     margin: 1rem;
     max-width: 15rem;
-    
 }
 
 body{
-    background-color: white ;
-    color: #003E73;
+    background-color: $background-color;
+    color: $hover-background-color;
 }
 
 h1, h2{
@@ -29,31 +33,31 @@ ul{
 }
 
 a{
-    border: 2px solid #003E73;
+    border: 2px solid $hover-background-color;
     border-radius: 2rem;
 
-    color: #003E73;
+    color: $hover-background-color;
     text-decoration-line: none;
 
     padding-right: 1rem;
     padding-left: 1rem;
     margin: 1rem;
     &:hover{
-        color: #3DF1CD;
-        background-color: #003E73;
+        color: $hover-text-color;
+        background-color: $hover-background-color;
         border-radius: 2rem;
     }
 }
 
-nav {
-    border-radius: 2rem;
-    background-color: #003E73;
+// nav {
+//     border-radius: 2rem;
+//     background-color: $hover-background-color;
 
-    display: flex;
-    justify-content: end;
+//     display: flex;
+//     justify-content: end;
 
-    a{
-        color: white;
-        padding: 1rem;
-    }    
-}
+//     a{
+//         color: white;
+//         padding: 1rem;
+//     }    
+// }
