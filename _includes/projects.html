@@ -1,7 +1,7 @@
 <!-- TODO <h2>Les projets les plus récents</h2>  -->
-<!-- TODO limite 3 -->
+
 <div class="gallery">
-    {% for project in site.projects %}
+    {% for project in site.projects limit:4 sort:'debut' %}
       <a href="{{ project.url }}">
         <div class="box">
           <h3>{{ project.title }}</h3>
