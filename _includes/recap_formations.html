@@ -1,0 +1,9 @@
+
+<ul>
+    {% assign collections = site.formations | sort: 'debut' %}
+    {% for formation in collections reversed %}
+      <a href="{{ formation.lien }}">
+          <p>{{ formation.title }}</p>
+      </a>
+    {% endfor %}
+</ul>
