@@ -1,5 +1,5 @@
 ---
-title   : "SNEE"
+title   : "Étudiante Entrepreneuse"
 detail  : "Statut National d'Etudiant Entrepreneur"
 lien    : "https://www.pepite-france.fr/"
 more    : "PEPITE 3EF"

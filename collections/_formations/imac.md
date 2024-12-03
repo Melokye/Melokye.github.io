@@ -1,5 +1,5 @@
 ---
-title   : "IMAC"
+title   : "Formation ingénieure IMAC"
 detail  : "Image, Multimédia, Audiovisuel et Communication"
 lien    : "https://www.ingenieur-imac.fr/"
 more    : "ESIEE Paris (ex-ESIPE)"
