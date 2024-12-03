@@ -2,50 +2,59 @@
 $hover-background-color: #3D405B;
 $hover-text-color: #8ACB88;
 $background-color: #AEC5EB;
-
-.current {
-    color: $hover-text-color;
-    text-decoration-line: underline;
-}
-
-.gallery{
-    display: flex; 
-    justify-content: center; 
-    flex-wrap: wrap;
-}
-
-.box {
-    margin: 1rem;
-    max-width: 15rem;
-}
+$header-color: #EB5160;
 
 body{
     background-color: $background-color;
     color: $hover-background-color;
+
+    display: flex; 
+    justify-content: center; /* horizontalement */
+    align-items: center;    /* verticalement */
+    flex-direction: column;
+    height: 100vh;          
+    margin: 0;
+    // gap: 10px 20px; /* row-gap column gap */
 }
 
-h1, h2{
-    text-align: center;
+// --- Header ---
+h1{
+    border-bottom-style: solid;
+    font-size: 4rem;
+}
+
+h2{
+    color: $header-color;
+    font-size: 1.5rem;
+}
+// --- ---
+.article{
+    justify-content: flex-start;
+}
+
+p{
+    margin: 0px;
 }
 
 ul{
-    text-align: left;
+    padding: 0px;
+//     text-align: left;
 }
 
 a{
-    border: 2px solid $hover-background-color;
-    border-radius: 2rem;
+//     border: 2px solid $hover-background-color;
+//     border-radius: 2rem;
 
     color: $hover-background-color;
     text-decoration-line: none;
 
-    padding-right: 1rem;
-    padding-left: 1rem;
-    margin: 1rem;
+//     padding-right: 1rem;
+//     padding-left: 1rem;
+//     margin: 1rem;
     &:hover{
         color: $hover-text-color;
-        background-color: $hover-background-color;
-        border-radius: 2rem;
+//         background-color: $hover-background-color;
+//         border-radius: 2rem;
     }
 }
 
@@ -61,3 +70,19 @@ a{
 //         padding: 1rem;
 //     }    
 // }
+
+.current {
+    color: $hover-text-color;
+    text-decoration-line: underline;
+}
+
+.gallery{
+    display: flex; 
+    justify-content: center; 
+    flex-wrap: wrap;
+}
+
+.box {
+    margin: auto;
+    max-width: 15rem;
+}
