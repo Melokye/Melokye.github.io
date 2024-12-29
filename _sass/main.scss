@@ -18,17 +18,19 @@ body{
     // gap: 10px 20px; /* row-gap column gap */
 }
 
-// --- Header ---
+// --- Header >>>
 h1{
     border-bottom-style: solid;
     font-size: 4rem;
+    text-align: center;
 }
 
 h2{
     color: $header-color;
     font-size: 1.5rem;
 }
-// --- ---
+// <<< Header ---
+
 .article{
     justify-content: flex-start;
 }
@@ -39,9 +41,9 @@ p{
 
 ul{
     padding: 0px;
-//     text-align: left;
 }
 
+// --- Links >>>
 a{
 //     border: 2px solid $default-color;
 //     border-radius: 2rem;
@@ -69,6 +71,8 @@ svg{
 path{
     fill: currentColor;
 }
+
+// <<< Links ---
 
 // nav {
 //     border-radius: 2rem;
