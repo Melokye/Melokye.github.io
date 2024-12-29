@@ -42,6 +42,7 @@ collections:
   projects:
     output: true
   formations:
+  social-media:
 
 defaults:
   -
