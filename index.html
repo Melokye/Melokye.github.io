@@ -31,9 +31,11 @@ title: Mélodie KOUY
 
     {% for media in site.social-media %}
         <a href="{{ media.lien }}">
-        <img
+            
+        {% include {{ media.title | prepend: 'logo/' | append: '.svg' }} %}
+        <!-- <img
             src= "assets\logo\{{ media.title }}.svg" 
-        />
+        /> -->
     
         <!-- TODO possibilité de changer la couleur du svg pendant un hover -->
         <!-- TODO varier la taille ? -->

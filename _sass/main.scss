@@ -3,6 +3,7 @@ $hover-background-color: #3D405B;
 $hover-text-color: #8ACB88;
 $background-color: #AEC5EB;
 $header-color: #EB5160;
+$link-color: #4C97EE;
 
 body{
     background-color: $background-color;
@@ -56,6 +57,17 @@ a{
 //         background-color: $hover-background-color;
 //         border-radius: 2rem;
     }
+}
+
+svg{
+    fill: $link-color; // TODO pas utilisé ???
+    &:hover{
+        fill: $hover-text-color;
+    }
+}
+
+path{
+    fill: currentColor;
 }
 
 // nav {
