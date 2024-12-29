@@ -1,13 +1,13 @@
 // Charte graphique
-$hover-background-color: #3D405B;
-$hover-text-color: #8ACB88;
+$default-color: #3D405B;
+$hover-color: #8ACB88;
 $background-color: #AEC5EB;
 $header-color: #EB5160;
 $link-color: #4C97EE;
 
 body{
     background-color: $background-color;
-    color: $hover-background-color;
+    color: $default-color;
 
     display: flex; 
     justify-content: center; /* horizontalement */
@@ -43,18 +43,18 @@ ul{
 }
 
 a{
-//     border: 2px solid $hover-background-color;
+//     border: 2px solid $default-color;
 //     border-radius: 2rem;
 
-    color: $hover-background-color;
+    color: $default-color;
     text-decoration-line: none;
 
 //     padding-right: 1rem;
 //     padding-left: 1rem;
 //     margin: 1rem;
     &:hover{
-        color: $hover-text-color;
-//         background-color: $hover-background-color;
+        color: $hover-color;
+//         background-color: $default-color;
 //         border-radius: 2rem;
     }
 }
@@ -62,7 +62,7 @@ a{
 svg{
     fill: $link-color; // TODO pas utilisé ???
     &:hover{
-        fill: $hover-text-color;
+        fill: $hover-color;
     }
 }
 
@@ -72,7 +72,7 @@ path{
 
 // nav {
 //     border-radius: 2rem;
-//     background-color: $hover-background-color;
+//     background-color: $default-color;
 
 //     display: flex;
 //     justify-content: end;
@@ -84,7 +84,7 @@ path{
 // }
 
 .current {
-    color: $hover-text-color;
+    color: $hover-color;
     text-decoration-line: underline;
 }
 
