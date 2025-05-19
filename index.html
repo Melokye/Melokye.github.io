@@ -3,21 +3,23 @@
 
 layout: default
 # home
-title: Mélodie KOUY
+title: Melokye
 ---
-
 
 <!-- # TODO insert favicon
     TODO nouvelle charte : https://coolors.co/eb5160-8acb88-aec5eb-3d405b-fae8eb
 -->
 
 <div class="article">
-    <h2> Couteau-suisse de créativité </h2>
-
-    <p>À la recherche d'un stage</p>
-    <p><strong>entre 4 et 6 mois</strong></p>
-    <p>dès mai 2025</p>
-
+    <h2>Votre couteau-suisse de créativité</h2>
+    <p>
+        Œil curieux et doigts de fée, <br>
+        j’aime confronter ma pluridisciplinarité, <br>
+        autant dans la programmation que dans l’illustration, <br>
+        sur des projets ludiques et symboliques, <br>
+        pour vous, pour moi et pour le public qui les explore <br>
+        afin d'éveiller, transmettre puis faire rêver.
+    </p>
 <!-- TODO à séparer ? -->
     <h2>Formations</h2>
     {% include recap_formations.html %}
@@ -31,13 +33,7 @@ title: Mélodie KOUY
 
     {% for media in site.social-media %}
         <a href="{{ media.lien }}">
-            
         {% include {{ media.title | prepend: 'logo/' | append: '.svg' }} %}
-        <!-- <img
-            src= "assets\logo\{{ media.title }}.svg" 
-        /> -->
-    
-        <!-- TODO possibilité de changer la couleur du svg pendant un hover -->
         <!-- TODO varier la taille ? -->
         </a>
     {% endfor %}
