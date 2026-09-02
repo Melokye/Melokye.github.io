@@ -18,22 +18,45 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Melokye
+## => Author and Social
+##############################
+author:
+  type      : # "person" (default), "organization"
+  name      : Mélodie KOUY
+  url       : ""
+  avatar    : # path or url of avatar image (square)
+  bio       : I am an amazing person.
+  email     :
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : "Melokye" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+
+
+# title: Melokye
 email: melodiekouy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username : melokye.crea
-github_username:  Melokye
+# github_username:  Melokye
 
 # Build settings
 # theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-last-modified-at
+theme: jekyll-text-theme
+# plugins:
+  # - jekyll-feed
+  # - jekyll-last-modified-at
 
 collections_dir: collections
 collections:
