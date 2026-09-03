@@ -18,15 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+## => Language and Timezone
+##############################
+lang: fr
+
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
   name      : Mélodie KOUY
   url       : ""
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
+  avatar    : assets\images\autoportrait-2025-carre.png
+  bio       : >- # this means to ignore newlines until the next "variable"
+    Œil curieux et doigts de fée,
+    j’aime confronter ma pluridisciplinarité,
+    autant dans la programmation que dans l’illustration,
+    sur des projets ludiques et symboliques,
+    pour vous, pour moi et pour le public qui les explore
+    afin d'éveiller, transmettre et faire rêver.
+  email     : melodiekouy@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -35,13 +46,12 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : "melodie-kouy" # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : "Melokye" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 # title: Melokye
-email: melodiekouy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for

@@ -1,131 +1,33 @@
 ---
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Votre couteau suisse de créativité
+layout: article
+title: >-
+    Melokye | 
+    Votre couteau-suisse de créativité
+#header:
+#  theme: dark
+#  background: '#3D405B'
 
-# articles:
-#   excerpt_type: html
+article_header:
+  type: overlay
+#  theme: dark
+#  background_color: '#203028'
+  background_image:
+#    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/banniere-paint.png
+#sidebar: 
+#    nav: navigation
+
+#articles:
+#  data_source: site.navigation
+#  show_excerpt: true
+#  show_readmore: true
+#  show_info: true
 ---
 
 <!-- # TODO insert favicon
     TODO nouvelle charte : https://coolors.co/eb5160-8acb88-aec5eb-3d405b-fae8eb
 -->
-
-<div class="article">
-    <h2>Votre couteau-suisse de créativité</h2>
-    <p>
-        Œil curieux et doigts de fée, <br>
-        j’aime confronter ma pluridisciplinarité, <br>
-        autant dans la programmation que dans l’illustration, <br>
-        sur des projets ludiques et symboliques, <br>
-        pour vous, pour moi et pour le public qui les explore <br>
-        afin d'éveiller, transmettre puis faire rêver.
-    </p>
-<!-- TODO à séparer ? -->
-    <h2>Formations</h2>
-    {% include recap_formations.html %}
-</div>
-
-<div class="box">
-    <!-- <h3>Retrouvez-moi aussi sur ...</h3> -->
-    <!-- Site : melokye.github.io  -->
-    <!-- GitLab : [Melokye](https://gitlab.com/Melokye)  -->
-    <!-- <a href="https://ko-fi.com/melokye">Ko-fi</a> -->
-
-    {% for media in site.social-media %}
-        <a href="{{ media.lien }}">
-        {% include {{ media.title | prepend: 'logo/' | append: '.svg' }} %}
-        <!-- TODO varier la taille ? -->
-        </a>
-    {% endfor %}
-</div>
-
-
-
-<!--
-<h1>Bienvenue dans mes expérimentations créatives</h1>
-
-<div class="gallery">
-    <div class="box">
-
-        <ul>
-            <li>Région parisienne</li>
-            <li>melodiekouy@gmail.com</li>
-        </ul>
-
-    </div>
-</div>
-
-<h2>Centres d'intérêt</h2>
-<!-- TODO à convertir en tag 
-<div class="gallery">
-    <div class="box">Illustration</div>
-    <div class="box">Bande dessinée : webtoon, manga</div>
-    <div class="box">Podcast : développement personnel, entreprenariat
-    </div>
-    <div class="box">Bullet journal</div>
-    <div class="box">Instagram</div>
-    <div class="box">Ateliers créatif : crochet, sculpture, scrapbooking, ...</div>
-</div>
-
-<h2>Formations</h2>
-{% include formations.html %}
-
-<h2>Compétences</h2>
-<div class="gallery">
-    <div class="box">
-        <h3>Langues</h3>
-        <ul>
-            <li>Français : certification du Projet voltaire</li>
-            <li>Anglais : B2 (TOEIC)</li>
-            <li>Mandarin : B1</li>
-        </ul>
-        <!-- - Teochew : langue maternelle 
-        <!-- - Langue des Signes Française : notions 
-        <!-- - Coréen : notions 
-        <!-- - Khmer : notions 
-    </div>
-    <div class="box">
-        <h3>Créations</h3>
-        <ul>
-            <li>Blender</li>
-            <li>Figma, Canva</li>
-            <li>Procreate, IbisPaint X</li>
-            <li>Suite Adobe</li>
-        </ul>
-    </div>
-    <div class="box">
-        <h3>Bureautique</h3>
-        <ul>
-            <li>Microsoft 365</li>
-            <li>Google workspace</li>
-            <li>Notion</li>
-            <li>Asana</li>
-        </ul>
-    </div>
-    <div class="box">
-        <h3>Concepts de programmation</h3>
-        <ul>
-            <li>fonctionnelle </li>
-            <!-- (via OCaml avec Samuele Giraudo) 
-            <li>objet </li>
-            <!-- (via Java17 avec Rémi Forax) 
-            <li>web, fullstack</li>
-            <!-- (PHP, Python, JavaScript, Angular, Node.js) 
-            <!-- <li>base de données </li> 
-            <!-- (SQL, PL/pgSQL) 
-            <li>moteur de jeu </li>
-            <!-- (unity, godot) 
-            <li>gestion de versions </li>
-            <!-- (Git : GitHub, GitLab, Redmine) 
-            <li>Linux</li>
-        </ul>
-    </div>
-</div>
-
--->
-<!-- 
-<h2>Expériences</h2>
--->
-
+<h1> Formations </h1>
+{% include recap_formations.html %}

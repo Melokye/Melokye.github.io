@@ -1,9 +1,19 @@
+<!-- ---
+layout: articles
+title: Formations
+articles:
+  data_source: site.formations
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
+--- -->
 
-<ul>
-    {% assign collections = site.formations | sort: 'debut' %}
-    {% for formation in collections reversed %}
-      <a href="{{ formation.lien }}">
-          <p>{{ formation.title }}</p>
-      </a>
-    {% endfor %}
-</ul>
+{% assign collections = site.formations %}
+{% for formation in collections reversed %} 
+<!-- Note : reversed car déjà trié selon la nommenclature des fichiers-->
+    <a href="{{ formation.lien }}">
+        <h2>{{ formation.title }}</h2>
+    </a>
+    <p>{{formation.debut}} - {{formation.fin}} | {{formation.lieu}}</p>
+    <p>{{formation.excerpt}}</p>
+{% endfor %}
