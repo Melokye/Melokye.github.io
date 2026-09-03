@@ -8,7 +8,7 @@ debut: "2024"
 fin: "2026"
 ---
 
-Maîtrise professionnalisant la gestion de projet numérique en allant de l'idéation à sa distribution.
+Maîtrise professionnalisante en gestion de projet numérique, de l'idéation à la distribution.
 
 Cours suivi :
 ▹ Recherche en création numérique
