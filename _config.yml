@@ -73,6 +73,11 @@ collections:
   skills:
     output: true
   projects:
+    title: true
+    skills:
+    debut: true
+    fin:
+    team:
     output: true
   formations:
   social-media:
@@ -85,15 +90,11 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "collections/_projects/*"
+      path: "collections/_projects"
       type: "projects"
     values:
       layout: "project"
-      title:
-      skills:
-      debut:
-      fin: 
-      team:
+      
 
 
 # Exclude from processing.

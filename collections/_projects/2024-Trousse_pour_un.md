@@ -1,10 +1,12 @@
 ---
-title : "Trousse pour Un"
-# skills  :
+title: "Trousse pour Un"
+skills:
 #     - illustration
 #     - communication
 debut: "janvier"
-fin : "mai 2024"
+fin: "mai 2024"
+team:
+    - Marie JACQUELIN
 ---
 Trousse pour Un est un atelier qui vise à rassembler les étudiant·e·s en leur faisant découvrir des activités DIY ou des activités liées au dessin.
 
