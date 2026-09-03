@@ -8,7 +8,7 @@ team:
     - Matthieu MECHINEAU
     - Cassiopée CHABOT
 ---
-Une quête identitaire à travers une expérience vidéoludique contemplative et poétique.
+Une quête identitaire à travers une expérience vidéoludique contemplative et littéraire.
 
 Le joueur y incarne trois personnages, trois esprits amnésiques se réveillant sur une île aussi mystérieuse et fantasque qu'elle est immense. Peuplée de divers monstres et habitée d'une étrange forme de magie basée sur la voix et les mots, cette île renferme les souvenirs d'une ancienne civilisation dans des stèles disséminées à sa surface.
 
