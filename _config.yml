@@ -78,6 +78,7 @@ collections:
     debut: true
     fin:
     team:
+    cover:
     output: true
   formations:
   social-media:

@@ -4,6 +4,7 @@ skills:
 debut: septembre
 fin: novembre 2024
 team:
+cover: assets\images\projects\Arduigami.png
 ---
 <!-- TODO à voir s'il y a pas moyen d'automatiser le titre de la page avec la nomenclature + imposer des contraintes pour ne pas avoir de majuscules pour les dates-->
 Peut-on concevoir un atelier de médiation qui initie l’électronique au grand public de manière ludique ? C'est suite à cette question qu'est né ce casse-tête en papier.

@@ -1,17 +1,39 @@
 
-<!-- <div class="gallery"> -->
+<div class="grid-container">
+  <div class="grid grid--p-3">
     {% for project in site.projects %}
-      
-        <!-- <div class="box"> -->
-          <h2>{{ project.title }}</h2>
-          <p>
-            Période : {{project.debut}} 
-            {% if project.fin %}
-            à {{project.fin}}
+      <div class="cell cell--6">
+        <a href="{{project.url}}"> 
+        <div class="card card--clickable">
+          <div class="card__image">
+            <img class="image" src="
+              {% if project.cover %}
+                {{ project.cover }}
+              {% else %}
+                assets\images\autoportrait-2025-carre.png
+              {% endif %}"
+            />
+
+            {% if project.cover == nil%}
+            <div class="overlay overlay--bottom">
+              <p>{{ project.title }}
+              <!-- 
+                {{project.debut}} 
+                {% if project.fin %}
+                à {{project.fin}}
+                {% endif %} -->
+              </p>
+            </div>
             {% endif %}
-          </p>
-          <p>{{ project.excerpt | markdownify | strip_html }}</p>
-          <a href="{{project.url}}"> En savoir plus ...</a>
-        <!-- </div> -->
-    <!-- {% endfor %} -->
-<!-- </div> -->
+          </div>
+        </div>
+        </a> 
+      </div>
+
+          
+          <!-- <p>{{ project.excerpt | markdownify | strip_html }}</p>
+         -->
+      <!-- </div> -->
+    {% endfor %}
+  </div>
+</div>

@@ -7,6 +7,7 @@ team:
     - Benjamin BOUILLON
     - Matthieu MECHINEAU
     - Cassiopée CHABOT
+cover: assets\images\projects\LesMotsDeLAme.png
 ---
 Une quête identitaire à travers une expérience vidéoludique contemplative et littéraire.
 
