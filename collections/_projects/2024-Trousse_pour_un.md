@@ -1,11 +1,13 @@
 ---
-title : "Staff polyvalente de 803Z"
-skills  :
-    - illustration
-    - communication
+title : "Trousse pour Un"
+# skills  :
+#     - illustration
+#     - communication
 debut: "janvier"
 fin : "mai 2024"
 ---
+Trousse pour Un est un atelier qui vise à rassembler les étudiant·e·s en leur faisant découvrir des activités DIY ou des activités liées au dessin.
+
 803Z est une association étudiante qui vise à promouvoir la créativité au sein de l'université Gustave Eiffel située à Champs-sur-Marne
 
 <!-- 

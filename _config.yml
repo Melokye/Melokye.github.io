@@ -85,10 +85,16 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
+      path: "collections/_projects/*"
       type: "projects"
     values:
       layout: "project"
+      title:
+      skills:
+      debut:
+      fin: 
+      team:
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
