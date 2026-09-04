@@ -4,7 +4,7 @@ skills:
 debut: septembre
 fin: novembre 2024
 team:
-cover: assets\images\projects\Arduigami\
+cover: assets/images/projects/Arduigami/
 pdf: ../assets/images/projects/Arduigami/02-fiche-arduigami.pdf
 ---
 <!-- TODO à voir s'il y a pas moyen d'automatiser le titre de la page avec la nomenclature + imposer des contraintes pour ne pas avoir de majuscules pour les dates-->
