@@ -1,8 +1,24 @@
-- name: Accueil
+header:
+- title: Accueil
   link: /
-- name: Mon portfolio
-  link: /portfolio.html
-- name: Mes projets
-  link: /projects.html
+# - title: Mon portfolio
+#   link: /portfolio.html
+# - title: Mes projets
+#   link: /projects.html
 # - name: Mes compétences
 #   link: /skills.html
+
+home-sidebar:
+  - title:      Mélodie KOUY
+    children:
+      - title: Hello world ! Allant du code à l’image, j’explore et combine les disciplines pour créer des expériences ludiques et mémorables.
+        # url:    /docs/en/quick-start
+      # - title:  Structure
+      #   url:    /docs/en/structure
+  - title:      Formations
+  - title:      Projets
+    # children:
+    #   - title:  Configuration
+    #     url:    /docs/en/configuration
+    #   - title:  Navigation
+    #     url:    /docs/en/navigation

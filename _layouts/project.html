@@ -1,26 +1,30 @@
 ---
-layout: default
+layout: article
+article_header:
+  type: cover
+  image:
+    src: assets/images/banniere-paint.png 
 ---
+<img src="{{page.cover | relative_url}}00-cover.png ">
+
 Période : 
 {{page.debut}} 
 {% if page.fin %}
 à {{page.fin}}
 {% endif %}
 
-<!-- TODO inserer une séparation ? -->
-
 {{ content }}
 
 <!-- TODO visuel tag -->
-<h3>Tags : </h3>
+<!-- <h3>Tags : </h3>
 <ul>
     {% for skill in page.skills %}
         <li>
             {{skill}}
-            <!-- TODO lien avec la collection skill -->
-            <!-- <a href="{{ tag.url }}">{{ tag.title }}</a> -->
+             TODO lien avec la collection skill 
+             <a href="{{ tag.url }}">{{ tag.title }}</a> 
         </li>
     {% endfor %}
-</ul>
+</ul> -->
 
 <!-- TODO projet suivant / précédent -->

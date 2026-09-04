@@ -64,6 +64,7 @@ instagram_username : melokye.crea
 # Build settings
 # theme: minima
 theme: jekyll-text-theme
+text_skin: forest
 # plugins:
   # - jekyll-feed
   # - jekyll-last-modified-at

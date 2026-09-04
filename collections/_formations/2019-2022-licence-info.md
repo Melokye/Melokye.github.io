@@ -12,12 +12,10 @@ Résolution de problème sur différents types de projet informatique (logiciel,
 Avec un <a href="https://formations.univ-gustave-eiffel.fr/licence/detail/mathematiques-et-informatique-284">tronc commun</a> avec la licence mathématique en 1re année.
 
 Options :
-<ul>
-    <li>Communication</li>
-    <li>Labo Math-Info</li>
-    <li>Anglais (sans Lv2)</li> 
-    <li>Zététique</li>
-    <li>Angular</li>
-    <li>Projet tutoré - sujet de recherche : comment proposer ses services de développeurs face au NoCode, notamment avec les CMS (Content Management Systems) ?</li>
-    <li>Initiation à l’image</li>
-</ul>
+: Communication
+: Labo Math-Info
+: Anglais (sans Lv2) 
+: Zététique
+: Angular
+: Projet tutoré - sujet de recherche : comment proposer ses services de développeurs face au NoCode, notamment avec les CMS (Content Management Systems) ?
+: Initiation à l’image
