@@ -7,7 +7,7 @@ debut: "janvier"
 fin: "mai 2024"
 team:
     - Marie JACQUELIN
-cover: assets\images\projects\TroussePourUn\
+cover: assets/images/projects/TroussePourUn/
 ---
 ## Trousse pour Un, qu'est-ce que c'est ?
 Il s'agit d'un atelier qui vise à rassembler les étudiant·e·s à travers divers activités DIY ou des activités liées au dessin.
