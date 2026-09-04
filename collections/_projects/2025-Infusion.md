@@ -11,7 +11,7 @@ team:
   - Benjamin BOUILLON
   - Victor COULET
   - Nabil LAGROUNI
-cover: assets\images\projects\Infusion\
+cover: assets/images/projects/Infusion/
 ---
 ## Une semaine pour concevoir une performance artistique
 C’est le défi qui nous a été imposé au travers d’une résidence créative. Elle a été organisée dans le cadre de la maîtrise en création numérique par Aude Weber-Houde et Casey Côtes-Turpin. 

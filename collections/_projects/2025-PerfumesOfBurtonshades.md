@@ -9,7 +9,7 @@ team:
     - Camille Dupréelle
     - Caroline Plourde
     - Estelle Guingo
-cover: assets\images\projects\PerfumesOfButonshades\
+cover: assets/images/projects/PerfumesOfButonshades/
 ---
 Dans le cadre de la Women Gamejam 2025, nous avons réalisé un jeu d’enquête narratif sous le thème "Nothing is what it seems".
 

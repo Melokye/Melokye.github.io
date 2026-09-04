@@ -9,7 +9,7 @@ team:
     - Matthieu MECHINEAU
     - Cassiopée CHABOT
     - Victor COULET
-cover: assets\images\projects\LaOuNousEtions\
+cover: assets/images/projects/LaOuNousEtions/
 ---
 ## Peut-on concevoir un jeu vidéo multijoueur coopératif qui amène les joueurs à développer une réflexion sur les dynamiques de couple ?
 
