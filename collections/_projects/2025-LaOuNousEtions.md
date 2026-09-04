@@ -16,11 +16,13 @@ cover: assets/images/projects/LaOuNousEtions/
 En incarnant deux êtres d’un amour naissant, nous explorons un univers onirique où souvenirs et émotions d’histoires d’amour se confondent. L’objectif sera alors de retracer plusieurs situations de couple, permettant ainsi à notre duo de joueurs de discuter de ces différents scénarios.
 
 Le prototype réalisé comprend un premier niveau composé de six casse-tête ainsi qu’une cinématique d’introduction.
-[Une démo du projet est disponible ici](https://mmeche.itch.io/laounousetions)
+- [Une démo du projet est disponible ici](https://mmeche.itch.io/laounousetions)
+- [Accéder au teaser](https://youtu.be/jkYSZlwG69A)
 
 ## Ma contribution :
 - direction artistique et concept art des différents niveaux
 - cinématique et illustrations d’introduction
 - conception des interfaces utilisateurs (UX / UI)
 
+<img src="{{page.cover | relative_url}}01-moodboard.png">
 Un projet qui a suscité beaucoup d’intérêt pour le corps professoral de l’UQAT qui nous a supervisé durant cette première année de maîtrise (2e cycle universitaire).

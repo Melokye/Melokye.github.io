@@ -29,7 +29,6 @@ Ma principale contribution a été dans la coordination du projet et de l’équ
 J’ai également contribué dans la production en concevant les différentes interfaces utilisateur et en testant régulièrement le jeu pour en améliorer son expérience ( UX / UI )
 
 <img src="{{page.cover | relative_url}}01-moodboard.png">
-<!-- TODO supp les rectangles gris du moodboard -->
 ## Ce projet a été présenté :
 - aux printemps numériques 2026 du Musée d’Art de Rouyn-Noranda
 - à la 3e édition de la Nuit Blanche de Rouyn-Noranda
