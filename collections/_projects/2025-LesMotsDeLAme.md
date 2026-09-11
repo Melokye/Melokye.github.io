@@ -17,6 +17,7 @@ Un jeu vidéo de rôle avec des mécaniques de combat en tour par tour inspiré 
 
 - [Disponible sur itch.io](https://melokye.itch.io/les-mots-de-lame)  
 - [Accéder au making of](https://youtu.be/w4lUyFY8TiU)
+- [Accéder au dossier de diffusion](https://drive.google.com/drive/folders/1dZ6EyvaCZWCyePzJhuPl-WnDMC73bjwI?usp=drive_link)
 
 <!-- ## Making of
 <iframe width="100%" height="500" src="https://youtu.be/w4lUyFY8TiU" title="Les Mots de l'Âme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
